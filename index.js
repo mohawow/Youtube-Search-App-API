@@ -1,4 +1,3 @@
-
 const YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search";
 
 function getYoutubeApiData ( searchTerm, callBack, stamp) {
@@ -39,31 +38,3 @@ $(function() {
   submitListener();
 
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

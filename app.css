@@ -1,11 +1,10 @@
-body {
-  padding-top: 50px;
-}
-
-
 
 *{
   box-sizing: border-box;
+}
+
+body {
+  padding-top: 50px;
 }
 
 main {
@@ -21,13 +20,13 @@ header {
 
 h1 {
   border-bottom: 1px solid #999;
-  padding: 0px 20px 10px 20px;
+  padding: 0px 25px 15px 25px;
   display: inline;
 }
 
 form {
-  width: 75%;
-  margin: 25px auto;
+  width: 70%;
+  margin: 20px auto;
 }
 
 fieldset{
@@ -42,7 +41,7 @@ label {
 }
 
 input {
- width: 80%;
+ width: 70%;
  
 }
 
@@ -52,7 +51,7 @@ button {
 }
 
 .results {
-  width: 80%;
+  width: 70%;
   margin: 0 auto;
   padding: 0px;
   text-align: center;
